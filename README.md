@@ -10,5 +10,5 @@ The concepts used are
     Boyer-Moore
     Merge Sort
     Edit Distance 
-Boyer-Moore searches the files for user entered search term and stores them in Hashmap which is sorted by Merge sort to get top 5 pages. edit distance is used to get similar words when invalid search terms are used. The search engine uses 751 webpages.
+Boyer-Moore searches the files for user entered search term and stores them in Hashmap which is sorted by Merge sort to get top 5 pages. edit distance is used to get similar words when invalid search terms are used.
 
